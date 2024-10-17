@@ -1,0 +1,36 @@
+{
+    "ThroughTheLookingGlass": {
+      "book": "Through the Looking-Glass",
+      "source": "https://www.sparknotes.com/lit/through-the-looking-glass/characters/",
+      "characters": {
+        "Alice": ["Alice"],
+        "Red Queen": ["Red Queen"],
+        "White Queen": ["White Queen"],
+        "Red King": ["Red King"],
+        "White King": ["White King"],
+        "White Knight": ["White Knight"],
+        "Humpty Dumpty": ["Humpty Dumpty"],
+        "Tweedledum": ["Tweedledum"],
+        "Tweedledee": ["Tweedledee"],
+        "Unicorn": ["Unicorn"],
+        "Lion": ["The Lion"],
+        "Haigha": ["Haigha"],
+        "Hatta": ["Hatta"],
+        "Sheep": ["The Sheep"],
+        "Gnat": ["Gnat"],
+        "Fawn": ["Fawn"],
+        "Red Knight": ["Red Knight"],
+        "Tiger-lily": ["Tiger-lily"],
+        "Rose": ["Rose"],
+        "Violet": ["Violet"],
+        "Daisy": ["Daisy", "Daisies"],
+        "Lily": ["Lily"],
+        "Goat": ["The Goat"],
+        "Man in white paper": ["The man in white paper"],
+        "Frog": ["Frog"],
+        "Larkspur": ["Larkspur"],
+        "Guard": ["Guard"]
+      }
+    }
+  }
+  

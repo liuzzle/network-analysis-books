@@ -1,0 +1,35 @@
+{
+    "AliceInWonderland": {
+      "book": "Alice in Wonderland / Nursery Alice",
+      "source": "https://www.sparknotes.com/lit/alice/characters/",
+      "characters": {
+        "Alice": ["Alice"],
+        "White Rabbit": ["White Rabbit"],
+        "Caterpillar": ["Caterpillar"],
+        "Gryphon": ["Gryphon"],
+        "Cheshire Cat": ["Cheshire Cat"],
+        "Hatter": ["The Mad Hatter", "Hatter", "Mad Hatter"],
+        "Queen of Hearts": ["Queen of Hearts"],
+        "King of Hearts": ["King of Hearts"],
+        "Duchess": ["The Duchess"],
+        "March Hare": ["The March Hare"],
+        "Dormouse": ["The Dormouse"],
+        "Mock Turtle": ["The Mock Turtle"],
+        "Alice's sister": ["Alice's sister"],
+        "Knave of Hearts": ["The Knave of Hearts"],
+        "Mouse": ["The Mouse"],
+        "Dodo": ["The Dodo"],
+        "Duck": ["The Duck"],
+        "Lory": ["The Lory"],
+        "Eaglet": ["The Eaglet"],
+        "Cook": ["The Cook"],
+        "Pigeon": ["The Pigeon"],
+        "Two": ["Two"],
+        "Five": ["Five"],
+        "Seven": ["Seven"],
+        "Bill": ["Bill"],
+        "Frog-Footman": ["The Frog-Footman"]
+      }
+    }
+  }
+  
